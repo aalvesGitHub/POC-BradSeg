@@ -2,9 +2,9 @@
 
 Antes de executar o upgrade, deve realizar algumas configurações antes para evitar erros inesperados na versão CF221.
 
-* [Instalação do Portal](docs/install-dx-cf214.md), com versão mínima CF214.
-* [Configuração do DB2](docs/setup-db2.md)
-* [Configuração do LDAP](docs/setup-ldap.md)
+* [Instalação do Portal](install-dx-cf214.md), com versão mínima CF214.
+* [Configuração do DB2](setup-db2.md)
+* [Configuração do LDAP](setup-ldap.md)
 
 
 Tabela de conteúdo
@@ -455,4 +455,4 @@ kubectl exec -it dx-core-0 -c core -- bash -c '/opt/HCL/wp_profile/bin/backupCon
 ```
 
 ## Próxima etapa: Configuração com URLs amigáveis
-Ir para [Configuração com URLs amigáveis](docs/setup-furl.md).
+Ir para [Configuração com URLs amigáveis](setup-furl.md).
