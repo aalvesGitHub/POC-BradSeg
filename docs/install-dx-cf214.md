@@ -304,4 +304,4 @@ kubectl exec -it dx-core-0 -c core -- bash -c '/opt/HCL/wp_profile/bin/backupCon
 ```
 
 ## Próxima etapa: Configuração com DB2
-Ir para [Configuração com DB2](docs/setup-db2.md).
+Ir para [Configuração com DB2](setup-db2.md).
