@@ -1,6 +1,8 @@
-# PORTAL bradseg
+# POC PORTAL BRADSEG
 
-Projeto responsável por proviosionar toda a documentação técnica referente a instalação e configuração da solução HCL DX Portal 9.5.
+Projeto responsável por provisionar toda a documentação técnica referente a instalação e configuração da solução HCL DX Portal 9.5.
+
+IPs e hostnames devem ser adaptados para o ambiente forncido para a POC
 
 Tabela de conteúdo
 ==================
