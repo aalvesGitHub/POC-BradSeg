@@ -1,6 +1,6 @@
 # INSTALAÇÃO DO PORTAL
 
-Antes de iniciar a instalação, tem que ter concluído os [Pré-Requisitos](docs/pre-reqs-portal.md).
+Antes de iniciar a instalação, tem que ter concluído os [Pré-Requisitos](pre-reqs-portal.md).
 
 Tabela de conteúdo
 ==================
