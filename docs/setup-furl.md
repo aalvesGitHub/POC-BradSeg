@@ -203,4 +203,4 @@ helm upgrade -n dxdev -f custom-values-cf221.yaml dx /tmp/install/images/hcl-dx-
 ```
 
 ## Próxima etapa: Configuração com OpenSearch
-Ir para [Próxima etapa: Configuração com OpenSearch](docs/setup-opensearch.md).
+Ir para [Próxima etapa: Configuração com OpenSearch](setup-opensearch.md).
