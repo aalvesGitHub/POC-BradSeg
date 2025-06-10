@@ -502,4 +502,4 @@ systemctl start ldap.service
 ```
 
 ## Próxima etapa: Configuração com LDAP
-Ir para [Configuração com LDAP](docs/setup-ldap.md).
+Ir para [Configuração com LDAP](setup-ldap.md).
