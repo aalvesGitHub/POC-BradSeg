@@ -1,6 +1,6 @@
 # Configuração com LDAP
 
-Antes de iniciar a configuração, tem que ter concluído à [Instalação do LDAP](docs/install-ldap.md).
+Antes de iniciar a configuração, tem que ter concluído à [Instalação do LDAP](install-ldap.md).
 
 Tabela de conteúdo
 ==================
@@ -188,4 +188,4 @@ kubectl exec -it dx-core-0 -c core -- bash -c '/opt/HCL/wp_profile/bin/backupCon
 ```
 
 ## Próxima etapa: Upgrade - CF221
-Ir para [Upgrade - CF221](docs/upgrade-cf221.md).
+Ir para [Upgrade - CF221](upgrade-cf221.md).
