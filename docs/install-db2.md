@@ -312,4 +312,4 @@ systemctl start db2.service
 ```
 
 ## Próxima etapa: Configuração com DB2
-Ir para [Próxima etapa: Configuração com DB2](docs/setup-db2.md).
+Ir para [Próxima etapa: Configuração com DB2](setup-db2.md).
