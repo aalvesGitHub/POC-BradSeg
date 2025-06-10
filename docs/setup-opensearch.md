@@ -1,5 +1,5 @@
 # Configuração com OpenSearch
-Antes de iniciar a configuração, tem que ter concluído à [Instalação do OpenSearch](docs/install-opensearch.md).
+Antes de iniciar a configuração, tem que ter concluído à [Instalação do OpenSearch](install-opensearch.md).
 
 Tabela de conteúdo
 ==================
