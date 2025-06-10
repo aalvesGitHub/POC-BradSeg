@@ -1,6 +1,6 @@
 # Importar biblioteca
 
-Antes de começar, certifique-se que tem instalado o [dxclient cli](docs/dxclient.md).
+Antes de começar, certifique-se que tem instalado o [dxclient cli](dxclient.md).
 
 Tabela de conteúdo
 ==================
