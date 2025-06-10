@@ -1,6 +1,6 @@
 # Configuração com DB2
 
-Antes de iniciar a configuração, tem que ter concluído à [Instalação do DB2](docs/install-db2.md).
+Antes de iniciar a configuração, tem que ter concluído à [Instalação do DB2](install-db2.md).
 
 Tabela de conteúdo
 ==================
@@ -174,4 +174,4 @@ kubectl exec -it dx-core-0 -c core -- bash -c '/opt/HCL/wp_profile/bin/backupCon
 ```
 
 ## Próxima etapa: Configuração com LDAP
-Ir para [Próxima etapa: Configuração com LDAP](docs/setup-ldap.md).
+Ir para [Próxima etapa: Configuração com LDAP](setup-ldap.md).
