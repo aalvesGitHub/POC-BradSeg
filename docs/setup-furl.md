@@ -1,6 +1,6 @@
 # URLs amigáveis
 
-Antes de iniciar a configuração, tem que ter concluído o [Upgrade - CF221](docs/upgrade-cf221.md).
+Antes de iniciar a configuração, tem que ter concluído o [Upgrade - CF221](upgrade-cf221.md).
 
 Tabela de conteúdo
 ==================
