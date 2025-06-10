@@ -1,6 +1,6 @@
 # Configuração do Leap
 
-Antes de iniciar a configuração, tem que ter concluído à [Instalação do Leap](docs/install-leap.md).
+Antes de iniciar a configuração, tem que ter concluído à [Instalação do Leap](install-leap.md).
 
 Tabela de conteúdo
 ==================
