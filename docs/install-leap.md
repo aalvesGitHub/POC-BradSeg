@@ -234,4 +234,4 @@ helm install -n leap -f custom-values-leap.yaml hcl images/hcl-leap-deployment-v
 ```
 
 ## Próxima etapa: Configurações do LEAP
-Ir para [Próxima etapa: Configurações do LEAP](docs/setup-leap.md)
+Ir para [Próxima etapa: Configurações do LEAP](setup-leap.md)
