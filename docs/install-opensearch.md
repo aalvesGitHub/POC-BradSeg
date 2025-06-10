@@ -1,5 +1,5 @@
 # Instalação do OpenSearch
-Antes de iniciar a instalação, tem que ter concluído o [Upgrade com CF221](docs/upgrade-cf221.md).
+Antes de iniciar a instalação, tem que ter concluído o [Upgrade com CF221](upgrade-cf221.md).
 
 Tabela de conteúdo
 ==================
@@ -138,4 +138,4 @@ helm install -n dxdev -f custom-values-opensearch.yaml dx-search hcl-dx-search-v
 ```
 
 ## Próxima etapa: Configuração com OpenSearch
-Ir para [Próxima etapa: Configuração com OpenSearch](docs/setup-opensearch.md)
+Ir para [Próxima etapa: Configuração com OpenSearch](setup-opensearch.md)
