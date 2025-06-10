@@ -1,6 +1,6 @@
 # PRÉ-REQUISITOS
 
-Antes de executar os **Pré-requisitos** do Portal, tem que ter realizar à [Criação do cluster](docs/create-k8s.md).
+Antes de executar os **Pré-requisitos** do Portal, tem que ter realizar à [Criação do cluster](create-k8s.md).
 
 Tabela de conteúdo
 ==================
